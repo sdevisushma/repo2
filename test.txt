@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2E80-B468
+
+ Directory of C:\Users\Satish Budati\Desktop\project
+
+02/27/2019  09:10 PM    <DIR>          .
+02/27/2019  09:10 PM    <DIR>          ..
+02/27/2019  09:10 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  385,012,768,768 bytes free
